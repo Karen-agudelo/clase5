@@ -15,6 +15,8 @@ switch(prueba){
         console.log("No entiendo qué quieres hacer.");0
         break;
 }
+
+>dfffggg
  
 /* Repetir como un loro
 Vamos a programar una función que se comporte como un loro. Sí, todo lo que "oye", ¡lo repite!
