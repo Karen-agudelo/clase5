@@ -17,7 +17,7 @@ switch(prueba){
 }
 
 >dfffggg
- 
+ ngthng
 /* Repetir como un loro
 Vamos a programar una función que se comporte como un loro. Sí, todo lo que "oye", ¡lo repite!
 
